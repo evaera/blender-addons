@@ -2,7 +2,13 @@
 
 Automatically toggles the "move" gizmo when Transform Orientation is not Global. This lets you get a visual indication of which axes are which.
 
-[video](https://i.eryn.io/2345/blender-NDAVTaQX.mp4)
+[Video demo](https://i.eryn.io/2345/blender-NDAVTaQX.mp4)
+
+# Auto Collection Instance Offset
+
+Automatically sets collections' instance offset property based on member objects. This makes collection instances and linked collections have their origin always in sync with the root object.
+
+[Video demo](https://i.eryn.io/2345/blender-ScMMYwBs.mp4)
 
 # ID Map Express
 Easily create ID Maps for your models in Blender directly from Edit mode. Select some faces and then assign them a new, unused color in one click.
