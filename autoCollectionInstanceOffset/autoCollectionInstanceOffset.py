@@ -13,6 +13,9 @@ from bpy.app.handlers import persistent
 @persistent
 def set_instance_offset(scene):
     for collection in bpy.data.collections:
+        if "Manual Offset" in collection and collection["Manual Offset"] == True:
+            continue
+
         root = None
 
         for object in collection.objects:

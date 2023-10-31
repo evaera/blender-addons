@@ -6,7 +6,7 @@ Automatically toggles the "move" gizmo when Transform Orientation is not Global.
 
 # Auto Collection Instance Offset
 
-Automatically sets collections' instance offset property based on member objects. This makes collection instances and linked collections have their origin always in sync with the root object.
+Automatically sets collections' instance offset property based on member objects. This makes collection instances and linked collections have their origin always in sync with the root object. To exclude a collection from this behavior, add custom property "Manual Offset" set to True on the collection.
 
 [Video demo](https://i.eryn.io/2345/blender-rNOaEwc9.mp4)
 
