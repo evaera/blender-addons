@@ -1,3 +1,9 @@
+# Pivot and Transform Orientation Menu
+
+A concise menu that combines the pivot and transform orientation options into one place. The key bind is `4` by default. Also includes the "auto toggle move gizmo" functionality from the addon below.
+
+![Image](https://i.eryn.io/2432/blender-Kwh7Cgpr.png)
+
 # Auto Toggle Move Gizmo
 
 Automatically toggles the "move" gizmo when Transform Orientation is not Global. This lets you get a visual indication of which axes are which.
