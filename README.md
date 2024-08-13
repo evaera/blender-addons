@@ -16,6 +16,12 @@ Automatically sets collections' instance offset property based on member objects
 
 [Video demo](https://i.eryn.io/2345/blender-rNOaEwc9.mp4)
 
+# Distribute Points along Curve
+
+Similar to the GStretch option in LoopTools, but for curves. Evenly redistributes points in a cruve, optionally locking certain axes.
+
+![Distribute Points Along Curve](https://i.eryn.io/2433/S3hk0cNx.png)
+
 # ID Map Express
 Easily create ID Maps for your models in Blender directly from Edit mode. Select some faces and then assign them a new, unused color in one click.
 
