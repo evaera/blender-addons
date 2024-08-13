@@ -20,6 +20,8 @@ Automatically sets collections' instance offset property based on member objects
 
 Similar to the GStretch option in LoopTools, but for curves. Evenly redistributes points in a cruve, optionally locking certain axes.
 
+[Video demo](https://i.eryn.io/2433/blender-Pe8AuVav.mp4)
+
 ![Distribute Points Along Curve](https://i.eryn.io/2433/S3hk0cNx.png)
 
 # ID Map Express
