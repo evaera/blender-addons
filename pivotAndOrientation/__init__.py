@@ -1,13 +1,3 @@
-bl_info = {
-    "name": "Pivot and Transform Orientation Menu",
-    "author": "evaera",
-    "version": (1, 0),
-    "blender": (4, 1, 0),
-    "location": "View3D > 4 key",
-    "description": "Adds a menu for selecting pivot points and transform orientations",
-    "category": "3D View",
-}
-
 import bpy
 
 custom_transforms = []

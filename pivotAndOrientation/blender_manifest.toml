@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "pivot_and_transform_orietnation_menu"
+version = "1.0.0"
+name = "Pivot and Transform Orientation Menu"
+tagline = "Pivot and transform options in a more easily accessible menu"
+maintainer = "Eryn L. K. <e@eryn.io>"
+
+type = "add-on"
+
+tags = ["3D View"]
+
+blender_version_min = "4.2.0"
+
+license = [
+	"SPDX:GPL-3.0-or-later",
+]
